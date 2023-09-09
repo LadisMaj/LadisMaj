@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LadisMajoros
+- 👋 Hi, I’m @Ladislav_Majoros
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning more about Cypress & Sellenium & SQL & Java
 - 💞️ I’m looking to collaborate on testing websites
